@@ -1,0 +1,14 @@
+{
+  "name": "emberstone",
+  "version": "0.0.1",
+  "description": "Dark theme with warm accents to boost focus. Designed for those seeking a solid, lively environment that’s easy on the eyes.",
+  "keywords": [
+    "Emberstone",
+    "dark",
+    "hyper",
+    "orange",
+    "yelow",
+    "ember"
+  ],
+  "main": "index.js"
+}
